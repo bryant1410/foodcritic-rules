@@ -1,4 +1,4 @@
-#foodcritic-rules
+# foodcritic-rules
 ================
 
 These are the foodcritic rules we've written here at Etsy to enforce rules on our cookbooks. Some of these rules are  best practices we've identified for our particular use case, and some were put in place as remediation items after issues we experienced.
